@@ -1,0 +1,5 @@
+{
+  "env": {
+    "FUNCTIONS_PORT": "5000"
+  }
+}
